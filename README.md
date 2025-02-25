@@ -13,19 +13,3 @@ Our work proposes a proactive, game-theoretic framework that leverages mutual ne
 
 - **plotsR-Parameters.ipynb:**  
   This notebook processes the simulation output data to generate results, including graphs and tables that illustrate the effect of varying parameters (e.g., benefit-to-cost ratio) on the spread of unverified news.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7 or later
-- Jupyter Notebook or JupyterLab
-- Required Python packages (see `requirements.txt` for a full list)
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/GraphBasedMisinformationControl.git
-   cd GraphBasedMisinformationControl
